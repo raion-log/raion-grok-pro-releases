@@ -1,6 +1,6 @@
 {
-  "version": "8.7.6",
-  "changelog": "테스트 버전",
+  "version": "8.7.5",
+  "changelog": "프롬프트 검증 개선 및 다운로드 안정성 향상",
   "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.7.5/dist.zip",
   "released_at": "2026-03-19"
 }
