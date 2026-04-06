@@ -1,6 +1,6 @@
 {
-  "version": "8.7.5",
-  "changelog": "중복 영상 생성 방지, 피드백 감지 개선, 다운로드 파일명 오버라이드, 난독화 강화",
-  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.7.5/dist.zip",
-  "released_at": "2026-03-19"
+  "version": "8.7.6",
+  "changelog": "영상 생성 완료 감지 개선, 업로드 검증 강화, 프롬프트 입력 최적화, Storage 오류 수정",
+  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.7.6/dist.zip",
+  "released_at": "2026-04-06"
 }
