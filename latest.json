@@ -1,6 +1,6 @@
 {
-  "version": "8.7.6",
-  "changelog": "영상 생성 완료 감지 개선, 업로드 검증 강화, 프롬프트 입력 최적화, Storage 오류 수정",
-  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.7.6/dist.zip",
-  "released_at": "2026-04-06"
+  "version": "8.7.7",
+  "changelog": "프롬프트 입력 검증 강화 (empty 마커 + 95% ratio), /imagine/post/* 페이지 전환 후 빈 프롬프트 재입력 로직 복구, Grok 신규 UI 업스케일 메뉴(Upscale) 대응",
+  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.7.7/dist.zip",
+  "released_at": "2026-04-12"
 }
