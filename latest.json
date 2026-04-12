@@ -1,6 +1,6 @@
 {
   "version": "8.7.8",
-  "changelog": "Grok UI 전면 대응, 업스케일/프롬프트/제출 버튼 수정, 로그인체크 제거, 파일번호 시작 설정, 드래그 순서변경, 복사버튼 추가",
+  "changelog": "Grok UI 대응 + 업스케일/프롬프트 수정 + UI 개선",
   "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.7.8/dist.zip",
   "released_at": "2026-04-12"
 }
