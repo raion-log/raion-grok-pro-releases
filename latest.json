@@ -1,6 +1,6 @@
 {
-  "version": "8.7.7",
-  "changelog": "프롬프트 입력 검증 강화 (empty 마커 + 95% ratio), /imagine/post/* 페이지 전환 후 빈 프롬프트 재입력 로직 복구, Grok 신규 UI 업스케일 메뉴(Upscale) 대응",
-  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.7.7/dist.zip",
+  "version": "8.8.0",
+  "changelog": "Grok UI 전면 대응\n- 프롬프트 입력: tiptap ProseMirror 에디터 지원\n- 제출 버튼: aria-label 변경 대응 (제출/동영상 만들기)\n- 업스케일: PointerEvent 클릭 + 메뉴 텍스트 매칭 (업스케일/Upscale)\n- 건너뛰기 피드백 화면 자동 감지 + PointerEvent 클릭\n- 로그인 체크 로직 제거 (오탐 방지)\n- 텍스트→동영상/일관성 모드 제거 (미사용)\n\nUI 개선\n- 파일 번호 시작 설정 추가 (11→11,12,13...)\n- 이미지 드래그 순서 변경\n- 프롬프트 복사 버튼\n- 업데이트 배너 가독성 개선\n- 고급 설정 기본 열림",
+  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.8.0/dist.zip",
   "released_at": "2026-04-12"
 }
