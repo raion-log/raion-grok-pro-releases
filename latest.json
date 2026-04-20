@@ -1,6 +1,6 @@
 {
-  "version": "8.7.8",
-  "changelog": "Grok UI 대응 + 업스케일/프롬프트 수정 + UI 개선 + 에러 팝업 알림",
-  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.7.8/dist.zip",
-  "released_at": "2026-04-12"
+  "version": "8.7.9",
+  "changelog": "Supabase 인증 안정성 + 대용량 이미지 자동 리사이즈 + 영상 생성 흐름 안정화 (SuperGrok 단일화, 썸네일 기반 custom 영상 식별/클릭, 병렬 실행 버그 해결)",
+  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.7.9/dist.zip",
+  "released_at": "2026-04-20"
 }
