@@ -1,6 +1,6 @@
 {
-  "version": "8.7.9",
-  "changelog": "Supabase 인증 안정성 개선 + 대용량 이미지 자동 리사이즈 + 영상 생성 흐름 안정화 (normal/custom 자동 분기, URL 드리프트 방지)",
-  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.7.9/dist.zip",
-  "released_at": "2026-04-20"
+  "version": "8.7.8",
+  "changelog": "Grok UI 대응 + 업스케일/프롬프트 수정 + UI 개선 + 에러 팝업 알림",
+  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.7.8/dist.zip",
+  "released_at": "2026-04-12"
 }
