@@ -1,6 +1,6 @@
 {
-  "version": "8.7.9",
-  "changelog": "Supabase 인증 안정성 + 대용량 이미지 자동 리사이즈 + 영상 생성 흐름 안정화 (SuperGrok 단일화, 썸네일 기반 custom 영상 식별/클릭, 병렬 실행 버그 해결)",
-  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.7.9/dist.zip",
-  "released_at": "2026-04-20"
+  "version": "8.7.10",
+  "changelog": "업로드 실패 사유 UI 표시 + 다국어 Remove 버튼 감지 + 탭 닫힘 에러 방지 + custom 영상 조기완료 시 업스케일 진행 + 자동화 완료 팝업",
+  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.7.10/dist.zip",
+  "released_at": "2026-04-21"
 }
