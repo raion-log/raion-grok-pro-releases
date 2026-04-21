@@ -1,6 +1,6 @@
 {
-  "version": "8.7.10",
-  "changelog": "업로드 실패 사유 UI 표시 + 다국어 Remove 버튼 감지 + 탭 닫힘 에러 방지 + custom 영상 조기완료 시 업스케일 진행 + 자동화 완료 팝업",
-  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.7.10/dist.zip",
+  "version": "8.8.0",
+  "changelog": "업데이트 완료 배너 오탐 수정 (다운로드 의도 기반 표시) + 완료 배너 확인 버튼",
+  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.8.0/dist.zip",
   "released_at": "2026-04-21"
 }
