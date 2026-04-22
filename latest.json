@@ -1,6 +1,6 @@
 {
-  "version": "8.8.2",
-  "changelog": "Grok 응답 포맷 변경 대응 — custom postId 추출 경로 다변화 + URL 추적 윈도우 60초로 확장 + background 통지 경로 보완",
-  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.8.2/dist.zip",
+  "version": "8.8.1",
+  "changelog": "업데이트 배너가 이전 상태 잔여물로 섞여 보이는 버그 수정 (showUpdateBanner 가 DOM 완전 리셋)",
+  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.8.1/dist.zip",
   "released_at": "2026-04-21"
 }
