@@ -1,6 +1,6 @@
 {
-  "version": "8.8.1",
-  "changelog": "업데이트 배너가 이전 상태 잔여물로 섞여 보이는 버그 수정 (showUpdateBanner 가 DOM 완전 리셋)",
-  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.8.1/dist.zip",
-  "released_at": "2026-04-21"
+  "version": "8.8.2",
+  "changelog": "빈 프롬프트(normal mode) 정상 경로 복구, 피드백 모달 자동 건너뛰기 개선, 탭 stale ID 버그 수정",
+  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.8.2/dist.zip",
+  "released_at": "2026-04-23"
 }
