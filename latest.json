@@ -1,6 +1,6 @@
 {
-  "version": "8.8.2",
-  "changelog": "빈 프롬프트(normal mode) 정상 경로 복구, 피드백 모달 자동 건너뛰기 개선, 탭 stale ID 버그 수정",
-  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.8.2/dist.zip",
-  "released_at": "2026-04-23"
+  "version": "8.8.3",
+  "changelog": "Supabase 인증 device_id 필드 추가 (백엔드 정책 변경 대응), 일시 장애 자동 재시도 추가",
+  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.8.3/dist.zip",
+  "released_at": "2026-05-20"
 }
