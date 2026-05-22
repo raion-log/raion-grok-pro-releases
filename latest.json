@@ -1,6 +1,6 @@
 {
-  "version": "8.8.3",
-  "changelog": "Supabase 인증 device_id 필드 추가 (백엔드 정책 변경 대응), 일시 장애 자동 재시도 추가",
-  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.8.3/dist.zip",
-  "released_at": "2026-05-20"
+  "version": "8.8.4",
+  "changelog": "Grok UI 새 칩 토글 UI 전면 대응 — 영상 설정(해상도/길이/종횡비) 자동화 흐름 복구, 다운로드 새 UI 대응 + HD/SD 분기, SuperGrok Heavy 업스케일 흐름 fallback 추가",
+  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.8.4/dist.zip",
+  "released_at": "2026-05-22"
 }
