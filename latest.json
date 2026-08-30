@@ -1,6 +1,6 @@
 {
-  "version": "8.8.4",
-  "changelog": "Grok UI 새 칩 토글 UI 전면 대응 — 영상 설정(해상도/길이/종횡비) 자동화 흐름 복구, 다운로드 새 UI 대응 + HD/SD 분기, SuperGrok Heavy 업스케일 흐름 fallback 추가",
-  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.8.4/dist.zip",
-  "released_at": "2026-05-22"
+  "version": "8.8.6",
+  "changelog": "새 Grok Imagine 페이지 대응\n- 이미지 업로드·비디오 설정·업스케일 버튼 자동화 개선\n- HD 업스케일 완료 후 다운로드로 이어지지 않던 문제 수정\n- 선택한 영상의 파일 저장 연결 보강\n- 이미지 1개 및 3개 배치 생성·업스케일·저장 확인\n※ 이미지 업로드 시 가로세로 비율은 Grok이 자동 결정합니다.",
+  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.8.6/dist.zip",
+  "released_at": "2026-08-30"
 }
