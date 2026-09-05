@@ -1,6 +1,6 @@
 {
-  "version": "8.8.9",
-  "changelog": "번호 파일명 다운로드 복구\n- 여러 영상을 1.mp4, 2.mp4 순서로 저장\n- 일부 항목이 실패해도 다음 항목 계속 진행\n- 기존 UI와 새 영상 설정 UI 모두 지원",
-  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.8.9/dist.zip",
-  "released_at": "2026-09-05"
+  "version": "8.8.11",
+  "changelog": "업스케일 실패 문제 수정\n- 좁은 결과 화면에서도 숨겨진 업스케일 버튼 자동 처리\n- 한국어·영어 UI 모두 지원",
+  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.8.11/dist.zip",
+  "released_at": "2026-09-06"
 }
