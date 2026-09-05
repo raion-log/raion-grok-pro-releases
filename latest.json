@@ -1,6 +1,6 @@
 {
-  "version": "8.8.7",
-  "changelog": "Grok 해상도·길이 UI 변경 대응\n- 480p 설정 버튼 없음 오류 수정\n- 새 해상도·동영상 길이 드롭다운 자동 선택\n- 현재 UI·구조 기반·기존 UI fallback 보존\n- 난독화 빌드 이미지 2개 생성·업스케일·다운로드 확인\n※ 이미지 업로드 시 가로세로 비율은 Grok이 자동 결정합니다.",
-  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.8.7/dist.zip",
-  "released_at": "2026-09-04"
+  "version": "8.8.9",
+  "changelog": "번호 파일명 다운로드 복구\n- 여러 영상을 1.mp4, 2.mp4 순서로 저장\n- 일부 항목이 실패해도 다음 항목 계속 진행\n- 기존 UI와 새 영상 설정 UI 모두 지원",
+  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.8.9/dist.zip",
+  "released_at": "2026-09-05"
 }
