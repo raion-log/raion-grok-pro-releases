@@ -1,6 +1,6 @@
 {
-  "version": "8.8.11",
-  "changelog": "업스케일 실패 문제 수정\n- 좁은 결과 화면에서도 숨겨진 업스케일 버튼 자동 처리\n- 한국어·영어 UI 모두 지원",
-  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.8.11/dist.zip",
-  "released_at": "2026-09-06"
+  "version": "8.8.14",
+  "changelog": "작은 창에서 영상 설정이 멈추던 문제 수정\n- 이미지 업로드 후 종횡비 단계에서 멈추던 문제 수정\n- 작업 시작 시 선택한 Grok 탭을 안정적으로 유지",
+  "download_url": "https://github.com/raion-log/raion-grok-pro-releases/releases/download/v8.8.14/dist.zip",
+  "released_at": "2026-09-09"
 }
